@@ -4,6 +4,7 @@ Chinese involvement in Africa has been scrutinized in the West as having self-se
 
 ## Goal: 
 - Identify significant relationships between the presence of natural resources and the impact of Chinese aid in African countries
+- Identify whether or not Chinese aid flows are more significantly correlated with resources which China lacks or with resources that China is rich in (ex. rare earths, which, if true, would have further geopolitical consequences for the West).
 - Desintation of aid flows
 - Economic indicators
 
